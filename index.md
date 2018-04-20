@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## HELLO EVERYONE
+
 
 You can use the [editor on GitHub](https://github.com/mdastanl/glowing-doodle/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,7 +16,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- I am so cool
 - List
 
 1. Numbered
